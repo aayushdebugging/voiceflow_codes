@@ -77,7 +77,6 @@ On successful data fetch, the response includes a carousel with property cards:
               "text": "Budget: AED 2000 - Type: Apartment"
             }
           },
-          // More cards
         ]
       }
     }
