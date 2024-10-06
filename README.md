@@ -1,9 +1,3 @@
-# voiceflow_codes
-
-
-Here’s a GitHub README file template for your function:
-
----
 
 # Airtable Property Fetcher
 
